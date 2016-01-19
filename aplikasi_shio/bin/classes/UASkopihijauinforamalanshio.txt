@@ -1,0 +1,319 @@
+gambar.setImageResource(R.drawable.Tikus);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO TIKUS" +
+		             		"\n1924,1936,1948,1960,1972,1984,1996,2008"+
+							"\n\n");
+"\nkepribadian shio tikus"+
+"\nShio Tikus melambangkan karakter seperti kecerdasan, imajinasi dan rasa ingin tahu."+
+"\nShio Tikus memiliki kemampuan pengamatan yang tajam dan dengan keterampilan-keterampilan itu mereka dapat menyimpulkan banyak tentang orang lain dan situasi lain."+
+"\nShio Tikus penuh nasihat yang baik tetapi mereka tidak pernah akan berbagi masalah dengan orang lain."+
+"\nMereka adalah orang-orang jujur dan mereka menikmati hidup untuk saat ini."+
+"\n\nkesehatan shio tikus"+
+"\nShio Tikus Secara keseluruhan menikmati kesehatan yang baik."+
+"\nMereka sangat aktif yang membantu menjaga mereka dalam bentuk dan mampu melawan penyakit."+
+"\nOlahraga teratur yang dirancang untuk menenangkan akan menguntungkan Shio Tikus."+
+"\n\nkarir shio tikus"+
+"\nSangat perseptif dan bijaksana, Shio Tikus bisa fokus pada gambaran besar."+
+"\nBahwa kemampuan bersama dengan penilaian baik mereka memungkinkan Shio Tikus untuk memecahkan masalah sebelum mereka muncul."+
+"\nPilihan karir yang baik meliputi: administrator, direktur, manajer, pengusaha, penyiar, penulis, musisi, pelawak, politisi, pengacara, peneliti, dan pembalap mobil."+
+"\n\npergaulan shio tikus"+
+"\nShio Tikus sangat menawan."+
+"\nMereka menikmati kegiatan sosial karena mereka selalu bertemu orang baru. 
+"\nSiapapun berharap untuk bermitra dengan Shio Tikus harus mampu bersaing dengan sifat aktif Shio Tikus itu."+
+"\nPasangan cocok shio tikus = Naga dan Monyet."+
+"\nPasangan tidak cocok shio tikus = Kuda dan Shio Kelinci."+
+
+gambar.setImageResource(R.drawable.Kerbau);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO KERBAU" +
+		             		"\n1925,1937,1949,1961,1973,1985,1997,2009"+
+							"\n\n");
+"\nkepribadian Shio Kerbau"+
+"\nShio Kerbau memiliki karakter seperti ketergantungan, kekuatan dan tekad."+
+"\nShio Kerbau adalah toleran yang percaya bahwa jalan menuju keberhasilan melibatkan kerja keras dan perilaku teliti, mereka tidak percaya pada mengambil jalan pintas."+
+"\nMereka juga mampu membuat orang lain percaya dan akan mendengarkan pendapat mereka dengan pikiran terbuka."+
+"\nNamun, Shio Kerbau suka membuat keputusan yang didasarkan pada penelitian mereka sendiri."+
+"\nkesehatan Shio Kerbau"+
+"\nShio Kerbau adalah individu yang kuat secara keseluruhan sehat dan hidup panjang, memenuhi hidup."+
+"\nNamun, mereka cenderung bekerja terlalu banyak, jarang membiarkan diri mereka cukup waktu untuk bersantai."+
+"\nkarir Shio Kerbau"+
+"\nShio Kerbau lebih suka pekerjaan yang rutin."+
+\nMereka mengambil pendekatan metodologis untuk tugas pekerjaan yang khusus."+
+\nPilihan karir yang baik untuk meliputi Shio Kerbau: desainer, interior, "pelukis, tukang kayu, pekerja tambang, arkeolog, ahli perkebunan, montir, insinyur, penggambar, bankir, "broker, agen real estat dan perwira tentara."+
+"\npergaulan Shio Kerbau"+
+"\nShio Kerbau tidak begitu suka bergaul dan jarang berpartisipasi dalam kegiatan kelompok."+
+"\nMereka benci berbasa-basi dan tidak akan membuang-buang waktu mereka menggoda."+
+"\nKetika Shio Kerbau menyadari bahwa kemitraan yang melibatkan dua orang dan dua sudut pandang, memuaskan pertandingan yang mungkin."+
+"\nPasangan cocok shio kerbau =Tikus dan Ayam."+
+"\nPasangan tidak cocok shio kerbau =Macan dan Kuda."+
+
+gambar.setImageResource(R.drawable.Macan);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO MACAN" +
+		             		"\n1926,1938,1950,1962,1974,1986,1998,2010"+
+							"\n\n");
+"\nShio Macan"+
+"\nkepribadian Shio Macan"+
+"\nShio Macan melambangkan karakter seperti keberanian, daya saing dan tidak dapat diprediksi."+
+""\nShio Macan suka ditantang dan akan menerima tantangan apapun jika itu berarti melindungi orang yang dicintai atau melindungi kehormatan mereka."+
+"\nMereka tidak khawatir tentang hasilnya karena mereka tahu bahwa mereka akan selalu mendarat di kaki mereka."+ 
+"\nShio Macan bisa keras kepala jika mereka menyadari bahwa mereka tidak bertanggung jawab."+ 
+"\nMereka memiliki sedikit kecenderungan untuk mementingkan diri sendiri tapi secara keseluruhan, Shio Macan sangat murah hati."+
+"\nkesehatan Shio Macan"+
+"\nSeperti yang mereka lakukan musuh-musuh mereka, Shio Macan memiliki kecenderungan untuk menerkam pekerjaan mereka."+
+"\nSetelah itu, mereka meninggalkan merasa lelah."+
+"\nMeskipun mereka akan segera bangkit kembali, dari waktu ke waktu pendekatan ini dapat menyebabkan masalah dengan kesehatan mereka."+
+"\nShio Macan perlu mengembangkan pendekatan yang lebih seimbang untuk hidup sehingga mereka dapat memanfaatkan energi mereka lebih efisien."+
+"\nkarir Shio Macan"+
+"\nShio Macan memiliki kebutuhan terus-menerus untuk ditantang yang mungkin menjelaskan mengapa mereka melompat dari satu pekerjaan ke pekerjaan."+
+"\nBeberapa karir yang cocok untuk meliputi Shio Macan: agen iklan, manajer kantor, agen perjalanan, aktor, penulis, seniman, pilot, pramugari, musisi, pelawak dan sopir."+
+"\npergaulan Shio Macan"+
+"\nKreatif dalam gairah mereka, Shio Macan tidak akan pernah dikenakan pasangan mereka."+
+"\nMereka ekspresif,sopan dan dapat dipercaya, tapi hati-hati."+
+"\nShio Macan cenderung mendominasi hubungan mereka."+
+"\nKecenderungan ini naluriah dan ketika dipantau ketat, perilaku tersebut dapat dikendalikan."+
+"\nPasangan cocok shio Macan = Anjing dan Kuda"+
+"\nPasangan tidak cocok shio Macan = Kambing dan Shio Kerbau"+
+
+gambar.setImageResource(R.drawable.Kelinci);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO KELINCI" +
+		             		"\n1927,1939,1951,1963,1975,1987,1999,2011"+
+							"\n\n");
+"\nShio Shio Kelinci"+
+"\nkepribadian Shio Kelinci"+
+"\nShio Kelinci melambangkan karakter seperti kreativitas, kasih sayang, dan sensitivitas."+
+"\nShio Kelinci yang ramah, keluar dan lebih menyukai perusahaan orang lain."+
+"\nMereka juga lebih memilih untuk menghindari konflik."+
+"\nDalam situasi konfrontatif, Shio Kelinci pendekatan tenang dan dengan pertimbangan untuk pihak lain."+
+"\nShio Kelinci percaya pada teman-teman dan keluarga dan obligasi tersebut kurang dapat mengakibatkan masalah emosional."+
+"\nKarena mereka hewan tenang, Shio Kelinci mudah dimanfaatkan."+ 
+"\nsifat sensitif mereka membuat mereka menghindar dari situasi agresif atau kompetitif."+
+"\nMereka secara keseluruhan konservatif dan tidak tertarik untuk mengambil risiko."+
+"\nShio Kelinci terus mengambil risiko yang kadang-kadang menyebabkan mereka kehilangan kesempatan yang baik."+
+"\nkesehatan Shio Kelinci"+
+"\nMeskipun Shio Kelinci biasanya tidak terlihat marah atau stres, mereka cenderung untuk menjaga perasaan didalamnya."+
+"\nKetika mereka tidak mengungkapkan perasaan ini, perasaan seperti itu dapat menyebabkan Shio Kelinci menjadi sakit."+
+"\nShio Kelinci dapat mengambil manfaat dari kegiatan sehari-hari lebih banyak yang makan mengurangi tingkat stres mereka dan lebih baik kesehatan mereka."+
+"\npergaulan Shio Kelinci"+
+"\nShio Kelinci sangat seksual, tetapi cenderung memberikan lebih banyak diri mereka dari yang seharusnya."+ "\nHal ini dapat menyebabkan harapan tidak realistis dan situasi yang tidak sehat."+
+"\nShio Kelinci membutuhkan mitra yang tidak akan mengambil keuntungan dari sifat mereka memberi."+
+"\nkarir Shio Kelinci"+
+"\nShio Kelinci adalah mengartikulasikan dan komunikator yang baik yang mengapa teman-teman dan kenalan mencari nasihat mereka."+ 
+"\nKarir bagus lain untuk Shio Kelinci termasuk: penulis, penerbit, aktor, perancang busana, terapis, dokter, administrator, hubungan masyarakat, dan guru."+
+"\nPasangan cocok shio Shio Kelinci = Babi dan Anjing."+
+"\nPasangan tidak cocok shio Shio Kelinci = Ayam dan Tikus."+
+
+gambar.setImageResource(R.drawable.Naga);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO NAGA" +
+		             		"\n1916,1928,1940,1952,1964,1976,1988,2000"+
+							"\n\n");
+"\nShio Naga"+
+"\nkepribadian Shio Naga"+
+"\nShio Naga melambangkan karakter seperti dominasi dan ambisi."+
+"\nShio Naga lebih suka hidup dengan aturan mereka sendiri dan jika dibiarkan sendiri, biasanya sukses."+
+"\nMereka didorong, tidak takut tantangan, dan bersedia mengambil risiko."+
+"\nMereka bergairah dalam segala yang mereka lakukan dan mereka melakukan hal-hal dalam mode grand."+
+"\nSayangnya, gairah dan antusiasme bisa meninggalkan naga merasa lelah dan menarik, tidak terpenuhi."+
+"\nShio Naga lebih suka menyendiri."+
+"\nMungkin itu adalah karena mereka yang paling sukses ketika bekerja sendirian."+
+"\npreferensi mereka sendirian bisa tampil sebagai kesombongan atau kegagahan, namun kualitas ini tidak berlaku."+
+"\nkesehatan Shio Naga"+
+"\nMengingat sifat mereka yang bekerja keras, Shio Naga sehat secara keseluruhan."+
+"\nMereka merasa tertekan dan menderita ketegangan periodik / sakit kepala, mungkin karena mereka mengambil risiko begitu banyak."+
+"\nShio Naga dapat mengambil manfaat dari kegiatan ringan memasukkan ke dalam kehidupan mereka."+
+"\nYoga atau akan berjalan baik kegiatan ini dapat bekerja baik pikiran mereka dan tubuh mereka."+
+"\nKarir Shio Naga"+
+"\nShio Naga lebih mengarah ke yang dipimpin."+
+"\nPekerjaan yang memungkinkan mereka untuk mengekspresikan kreativitas mereka adalah pilihan yang baik."+ "\nBeberapa karir yang baik meliputi: penemu, manajer, analis komputer, pengacara, insinyur, arsitek, broker, dan orang penjualan."+
+"\nPasangan cocok shio naga = Monyet atau Tikus."+
+"\nPasangan tidak cocok shio naga = Kerbau dan Kambing."+
+
+gambar.setImageResource(R.drawable.Ular);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO ULAR" +
+		             		"\n1917,1929,1941,1953,1965,1977,1989,2001"+
+							"\n\n");
+"\nShio Ular"+
+"\nkepribadian Shio Ular"+
+"\nShio Ular melambangkan karakter seperti kecerdasan, keanggunan dan materialisme."+
+"\nKetika datang untuk pengambilan keputusan, Shio Ular sangat analitis dan sebagai hasilnya, mereka tidak melompat ke dalam situasi."+
+"\nMereka efektif mendapatkan hal-hal yang mereka inginkan, bahkan jika itu berarti mereka harus skema dan plot sepanjang jalan."+
+"\nShio Ular adalah makhluk yang sangat materialistis, memilih untuk mengelilingi diri dengan kehidupan terbaik yang ditawarkan."+
+"\nkesehatan Shio Ular"+
+"\nShio Ular lebih memilih hidup ketenangan, lebih suka ketenangan atas kebisingan dan beban kerja yang dikelola daripada jadwal yang terlalu-dipesan."+
+"\nShio Ular menjadi mudah stres ketika hidup mereka tidak damai atau dalam rangka."+
+"\nkarir Shio Ular"+
+"\nShio Ular bekerja sangat keras."+
+"\nSikap mereka agak santai menyebabkan mereka menjadi keliru dikategorikan sebagai pemalas, tidak bisa lebih jauh dari kebenaran."+
+"\nUlar sangat kreatif dan sangat rajin."+
+"\nPilihan karir yang baik untuk Shio Ular meliputi: ilmuwan, analis, penyidik, pelukis, potter, perhiasan, peramal, penyihir, ahli gizi, dan sosiolog."+
+"\npergaulan Shio Ular"+
+"\nShio Ular adalah mereka yang menjadi orang-orang untuk memutuskan kapan suatu hubungan memiliki potensi dan ketika itu tidak."+
+"\nBegitu mereka telah memilih pasangan, sisi tidak aman sebuah Shio Ular akan mulai menunjukkan melalui."+
+"\nShio Ular lebih memilih untuk menjaga perasaan mereka kepada diri mereka sendiri."+
+"\nPasangan cocok shio ular = Ayam dan Shio Kerbau."+
+"\nPasangan tidak cocok shio ular = Babi dan Monyet."+
+
+gambar.setImageResource(R.drawable.Kuda);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO KUDA" +
+		             		"\n1918,1930,1942,1954,1966,1978,1990,2002,2014"+
+							"\n\n");
+"\nShio Kuda"+
+"\nkepribadian Shio Kuda"+
+"\nShio Kuda melambangkan karakter seperti kekuatan, energi, dan alam keluar."+
+"\nSangat animasi, Shio Kuda berkembang ketika mereka menjadi pusat perhatian."+
+"\nSelalu mencari waktu yang baik, Shio Kuda menjaga orang banyak senang dengan humor dan kecerdasan mereka."+
+"\nShio Kuda sangat cerdas sehingga mereka mampu memahami subyek baru dengan mudah."+
+"\nShio Kuda jujur, ramah dan berpikiran terbuka."+
+"\nMereka mungkin agak terlalu berpusat pada diri mereka sendiri dan telah dikenal untuk membuat ulah ketika situasi tidak pergi jalan mereka."+
+"\nkesehatan Shio Kuda"+
+"\nShio Kuda sangat sehat, kemungkinan besar karena mereka mempertahankan pandangan positif terhadap kehidupan dan karena mereka atletik."+
+"\nShio Kuda Mengarah ke lebar, ruang terbuka dan menonton mereka berlari bebas!"+
+"\nShio Kuda biasanya akan hanya merasa sakit ketika mereka sedang terperangkap di dalam."+
+"\nkarir Shio Kuda"+
+"\nShio Kuda menikmati posisi di mana mereka dapat berinteraksi dengan orang lain."+
+"\nMereka tidak suka menerima perintah dan mereka akan lari dari pekerjaan yang mereka anggap rutin."+
+"\nMereka mampu memahami subyek baru dengan mudah membuat mereka mampu menangani sebagian besar pekerjaan apa pun."+
+"\nMereka komunikator yang efektif dan mereka menikmati kekuasaan."+
+"\npilihan karir Baik untuk Shio Kuda meliputi: humas, perwakilan "penjualan, wartawan, instruktur bahasa, penerjemah, bartender, artis, operator tur, pustakawan atau pilot."+
+"\nMereka mampu memahami subyek baru dengan mudah membuat mereka mampu menangani sebagian besar pekerjaan apa pun."+
+"\npergaulan Shio Kuda"+
+"\nShio Kuda, yang spontan memiliki kecenderungan untuk jatuh cepat dan sulit bagi orang lain."+
+"\nMereka cenderung menyerahkan diri sepenuhnya dalam setiap hubungan baru."+
+"\nPasangan cocok shio kuda = anjing atau Shio Macan."+
+"\nPasangan tidak cocok shio kuda = Tikus atau Monyet."+
+
+gambar.setImageResource(R.drawable.Kambing);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO KAMBING" +
+		             		"\n1919,1931,1943,1955,1967,1979,1991,2003,2015"+
+							"\n\n");
+"\nShio Kambing"+
+"\nkepribadian Shio Kambing"+
+"\nShio Kambing melambangkan karakter seperti kreativitas, kecerdasan dan ketenangan."+
+"\nNyaman berada sendirian untuk merenungkan kerja pikiran batin mereka, shio Kambing menikmati menjadi bagian dari grup, tapi lebih suka sela-sela daripada pusat."+ 
+"\nMereka cukup dan pendiam karena mereka menghabiskan banyak waktu tenggelam dalam pikiran mereka."+
+"\nKetika bepergian atau mencari hiburan, Shio Kambing lebih memilih kelompok atau tempat yang terus banyak orang."+
+"\nkesehatan Shio Kambing"+
+"\nMungkin karena pada dasarnya Shio Kambing tenang, mereka cenderung memiliki lebih sedikit masalah kesehatan."+
+"\nrapuh mereka menyembunyikan fakta eksterior mereka biasanya sangat sehat."+
+"\nKetika mereka senang,mereka sehat."+
+"\nKetika Shio Kambing menjadi tidak bahagia, terutama sebagai akibat dari asmara, mereka cepat menjadi sakit."+
+"\npergaulan Shio Kambing"+
+"\nShio Kambing cenderung swasta, sehingga dapat mengambil upaya untuk mengenal satu."+
+"\nShio Kambing adalah orang yang akan memutuskan kapan dan dengan siapa ia akan berbagi kehidupan pribadinya."+
+"\nAkibatnya, Shio Kambing yang paling memiliki sedikit “dekat” teman-teman, namun mereka akan bekerja keras bagi mereka yang mereka cintai."+
+"\nkarir Shio Kambing"+
+"\nShio Kambing di tempat kerja kekuasaan dan status tidak penting."+
+"\nShio Kambing hanya akan menganggap peran kepemimpinan ketika ditanya langsung."+
+"\nMereka tidak akan pernah relawan."+
+"\nPilihan karir yang baik untuk Shio Kambing meliputi: florist, desainer interior, guru tempat penitipan anak, dokter anak, aktor, editor, penata rambut, ilustrator, musisi, dan guru seni sejarah."+
+"\nPasangan cocok shio kambing = Shio Kelinci dan Babi."+
+"\nPasangan tidak cocok shio kambing = Tikus atau kerbau."+
+
+gambar.setImageResource(R.drawable.Monyet);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO MONYET" +
+		             		"\n1920,1932,1944,1956,1968,1980,1992,2004,2016"+
+							"\n\n");
+"\nShio Monyet"+
+"\nkepribadian Shio Monyet"+
+"\nShio Monyet memiliki karakter seperti rasa ingin tahu, kenakalan, dan kepandaian."+
+"\nMeskipun niat mereka selalu baik, keinginan untuk menjadi orang iseng ini memiliki kecenderungan untuk membuat sakit akan dan melukai perasaan."+
+"\nShio Monyet lebih suka kehidupan kota ke desa, dan hobi favorit mereka adalah orang-orang-menonton."+
+"\nkesehatan Shio Monyet"+
+"\nPercaya bahwa menjadi sakit adalah limbah dari hari yang berharga, Shio Monyet sangat jarang merasa sakit."+
+"\ngaya hidup mereka terus aktif kemungkinan apa yang membantu Shio Monyet tetap dalam kesehatan yang baik."+
+"\nKetika Shio Monyet lakukan menjadi sakit, perasaan seperti umumnya hasil dari perasaan gugup."+
+"\nkarir Shio Monyet"+
+"\nKetika datang untuk bekerja, Shio Monyet bisa melakukan apa saja."+
+"\nMereka beradaptasi dengan baik terhadap lingkungan yang berubah dan mereka sangat cerdas."+
+"\nKarir untuk Shio Monyet meliputi: ilmuwan, insinyur, pedagang pasar saham, pengendali lalu lintas udara, dealer, sutradara film, perhiasan dan perwakilan penjualan."+
+"\npergaulan Shio Monyet"+
+"\nKetika datang ke hubungan, Shio Monyet yang tidak cepat untuk menetap."+
+"\nBahkan, mereka umumnya kecenderungan yang mungkin ada hubungannya dengan fakta bahwa Shio Monyet mudah bosan."+
+"\nPasangan cocok shio monyet = Tikus atau Naga."+
+"\nPasangan tidak cocok shio monyet = Kuda atau Ular."+
+
+gambar.setImageResource(R.drawable.Ayam);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO AYAM" +
+		             		"\n 1921,1933,1945,1957,1969,1981,1993,2005,2017"+
+							"\n\n");
+"\nShio Ayam"+
+"\nkepribadian Shio Ayam"+
+"\nShio ayam melambangkan karakter seperti kepercayaan, dan motivasi."+
+"\nKeterusterangan mereka tidak berasal dari yang berarti tapi dari bersikap jujur, suatu sifat yang Shio Ayam diharapkan dari orang lain."+
+"\nShio Ayam sangat ramah dan suka menjadi pusat perhatian, selalu membual tentang diri mereka sendiri dan "\nprestasi mereka."+
+"\nMereka sangat terorganisir individu yang dibuktikan dengan fakta bahwa rumah mereka selalu rapi."+
+"\nkesehatan Shio Ayam"+
+"\nSecara keseluruhan, Shio Ayam adalah individu yang aktif yang menjaga mereka dalam kesehatan yang baik."+
+"\nKetika mereka sakit, mereka merasa lebih baik dengan cepat."+ 
+"\nkarir Shio Ayam"+
+"\nShio Ayam bermotivasi tinggi dan pekerja keras, ciri-ciri yang memungkinkan Shio sebagian besar untuk "\nmemiliki karir yang sukses."+
+"\nTidak mengherankan, Shio Ayam membuat aktor yang baik, musisi dan penari."+
+"\npilihan karir lain yang baik untuk Ayam Jantan meliputi: CPA, bankir, dokter gigi, agen asuransi, "\nsekretaris, dan penjaga buku."+
+"\npergaulan Shio Ayam"+
+"\nShio Ayam perlu bermitra dengan mereka yang berkulit keras."+
+"\nMereka individu yang paling mampu menyadari bahwa di balik eksterior yang sulit besar, hati peduli meluap dengan cinta."+
+"\nPasangan cocok shio ayam = Kerbau atau Ular."+
+"\nPasangan tidak cocok shio ayam = Kambing dan Shio Kelinci."+
+
+gambar.setImageResource(R.drawable.Anjing);
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO ANJING" +
+		             		"\n1922,1934,1946,1958,1970,1982,1994,2006,2018"+
+							"\n\n");
+"\nShio Anjing"+
+"\nkepribadian Shio Anjing"+
+"\nShio Anjing melambangkan sifat-sifat karakter seperti kesetiaan, kompatibilitas dan kebaikan."+
+"\nShio Anjing sering menawarkan kata-kata baik dan saran yang berguna, selalu mendengarkan dan pinjaman bahu ketika diperlukan."+
+"\nShio Anjing memiliki nilai persahabatan, mereka setia, jujur, dapat dipercaya dan dapat diandalkan dan memiliki moral dan etika."+
+"\nShio Anjing bisa mendapatkan keuntungan dengan belajar untuk rileks dan menjadi lebih rasional."+
+"\nkesehatan Shio Anjing"+
+"\nShio Anjing sehat dan mudah bercerita karena Shio Anjing ulet, terutama ketika melawan penyakit."+
+"\npergaulan Shio Anjing"+
+"\nWalaupun Shio Anjing dapat dipercaya, mereka mengalami kesulitan mempercayai orang lain."+
+"\nIni dapat mengambil waktu lama sebelum Shio Anjing merasa nyaman dengan orang lain."+
+"\nKetika Shio Anjing tidak membangun kepercayaan mereka menghakimi dan kasar terhadap orang lain."+
+"\nShio Anjing dikenal dingin emosional dan kritis."+
+"\nkarir Shio Anjing"+
+"\nRekan kerja selalu bisa mengandalkan Shio Anjing untuk membantu, terutama jika itu berarti Shio Anjing "\nakan "belajar sesuatu yang baru atau meringankan beban kerja orang lain."+
+"\nShio Anjing dilihat sebagai karyawan yang berharga."+
+"\npilihan karir yang baik untuk Anjing termasuk: polisi, ilmuwan, konselor, desainer interior, profesor, politikus, pendeta, perawat, pegawai dan Hakim."+
+"\nPasangan cocok shio anjing = Kuda atau Shio Macan."+
+"\nPasangan tidak cocok shio anjing = Ayam dan Naga."+
+
+gambar.setImageResource(R.drawable.Babi;
+					TextView hasil = (TextView)findViewById(R.id.Hasil);
+					hasil.setText("SHIO BABI" +
+		             		"\n1923,1935,1947,1959,1971,1983,1995,2007,2019"+
+							"\n\n");
+"\nShio Babi"+
+"\nkepribadian Shio Babi"+
+"\nShio Babi melambangkan karakter seperti ketekunan, kasih sayang, dan kemurahan hati."+
+"\nShio Babi memberikan kenikmatan jiwa dan menuai banyak ketika mereka membantu orang lain, tapi kadang-kadang mereka memberi terlalu banyak."+
+"\nShio Babi mencari perdamaian dan akan melakukan apa yang diperlukan untuk mempertahankannya."+
+"\nSifat ini, sementara mengagumkan, kadang membuat mudah bagi orang lain untuk mengambil keuntungan dari Shio Babi."+
+"\nShio Babi selalu melakukan untuk orang lain, membantu pula mereka bisa, tapi jarang akan mereka meminta orang lain untuk bantuan."+
+"\nHal ini dapat membanjiri dan stres mereka, tetapi Shio Babi tidak keberatan."+
+"\nkesehatan Shio Babi"+
+"\nSelalu mencari menyenangkan, Shio Babi sering memanjakan lebih dari yang seharusnya, makan minum, berlebihan dan merokok dapat menyebabkan penyakit."+
+"\nShio Babi tidak sangat aktif dan, dikombinasikan dengan perilaku berlebihan mereka, menyebabkan mereka untuk mendapatkan berat badan."+
+"\nkarir Shio Babi"+
+"\nShio Babi menikmati tempat kerja dan selalu bisa diandalkan."+
+"\nMereka menikmati kesempatan yang memungkinkan mereka untuk mengekspresikan kreativitas mereka."+
+"\nShio Babi mempunyai sifat yang dikagumi oleh manajemen."+
+"\nShio Babi tidak takut untuk mengambil tanggung jawab."+
+"\nBeberapa pilihan karir yang baik untuk Babi meliputi: "penghibur, katering, dokter, dokter hewan, atau dekorator interior."+
+"\nMereka akan melakukannya dengan baik di eceran atau perhotelan."+
+"\npergaulan Shio Babi"+
+"\nMendukung dan memberi, Shio Babi membuat mitra besar."+
+"\nMereka sayang dan seksual dan lebih memilih tinggal di rumah untuk pergi keluar."+
+"\nMereka menikmati apa yang mereka miliki, terutama rumah mereka dan keluarga."+ 
+"\nBegitu mereka menemukan mitra yang tepat, mereka biasanya dilakukan untuk jangka panjang."+
+"\nPasangan cocok shio babi = Shio Kelinci atau Kambing."+
+"\nPasangan tidak cocok shio babi = Monyet dan Ular."+

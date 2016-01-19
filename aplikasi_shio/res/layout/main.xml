@@ -1,0 +1,42 @@
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/zodiak2">
+
+        <Button
+            android:id="@+id/BtnKeluar"
+            android:layout_width="125dip"
+            android:layout_height="125dip"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/btnexit" />
+
+        <Button
+            android:id="@+id/BtnShio"
+            android:layout_width="210dip"
+            android:layout_height="210dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="200dp"
+            android:background="@drawable/btn1" />
+
+        <Button
+            android:id="@+id/BtnTentangKita"
+            android:layout_width="210dip"
+            android:layout_height="210dip"
+            android:layout_alignBaseline="@+id/BtnCari"
+            android:layout_alignBottom="@+id/BtnCari"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/btn3" />
+
+        <Button
+            android:id="@+id/BtnCari"
+            android:layout_width="210dip"
+            android:layout_height="210dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/BtnShio"
+            android:background="@drawable/btn2" />
+
+    </RelativeLayout>

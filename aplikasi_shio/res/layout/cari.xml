@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cari"
+    android:stretchColumns="1">
+    
+    <TableRow>
+        <ImageView
+            android:src="@drawable/image2"
+            android:layout_span="2"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:padding="15dp" />
+        </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Nama Anda"
+            android:gravity="left"
+            android:padding="10dip" />
+        <EditText
+            android:id="@+id/nama1"
+            android:gravity="left"
+            android:padding="10dip" />
+    </TableRow>
+    
+    <TableRow>
+        <TextView
+            android:text="Shio"
+            android:gravity="left"
+            android:padding="10dip" />
+         <Spinner
+     android:id="@+id/shio_anda"
+     android:gravity="left"
+     android:padding="5dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="1dip"
+        android:background="#FF909090" />
+    
+    <TableRow>
+        <TextView
+            android:text="Nama Pasangan"
+            android:gravity="left"
+            android:padding="10dip" />
+        <EditText
+            android:id="@+id/nama2"
+            android:gravity="left"
+            android:padding="10dip" />
+        </TableRow>
+        
+    <TableRow>
+        <TextView
+            android:text="Shio"
+            android:gravity="left"
+            android:padding="10dip" />
+         <Spinner
+     android:id="@+id/shio_pasangan"
+     android:gravity="left"
+     android:layout_span="2"
+     android:padding="5dip" />
+    </TableRow>
+    
+    <TableRow>
+
+        <Button
+            android:id="@+id/BtnHasil"
+            android:gravity="center"
+            android:padding="10dip"
+            android:text="Check" />
+        <Button
+            android:id="@+id/BtnReset"
+            android:gravity="center"
+            android:padding="10dip"
+            android:text="Reset" />
+
+    </TableRow>
+
+    <View
+        android:layout_height="3dip"
+        android:background="#FF909090" />
+    
+     <TableRow> 
+     <ImageView
+     android:id="@+id/gambar"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:padding="5dp"
+     android:layout_span="2"
+     android:layout_gravity="center"/>
+     </TableRow>
+
+</TableLayout>

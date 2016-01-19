@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bintang"
+    android:stretchColumns="1">
+
+    <TableRow>
+        <ImageView
+            android:src="@drawable/image1"
+            android:layout_span="2"
+            android:layout_height="100dp"
+            android:gravity="center" />
+        </TableRow>
+    
+    <TableRow>
+        <TextView
+            android:text="Tanggal"
+            android:gravity="left"
+            android:padding="10dip" />
+         <Spinner
+     android:id="@+id/tanggal"
+     android:gravity="left"
+     android:padding="5dip" />
+    </TableRow>
+    
+    <TableRow>
+        <TextView
+            android:text="Bulan"
+            android:gravity="left"
+            android:padding="10dip" />
+         <Spinner
+     android:id="@+id/bulan"
+     android:gravity="left"
+     android:padding="5dip" />
+    </TableRow>
+    
+    <TableRow>
+        <TextView
+            android:text="Tahun"
+            android:gravity="left"
+            android:padding="10dip" />
+        <Spinner
+     android:id="@+id/tahun"
+     android:gravity="left"
+     android:padding="5dip" />
+        </TableRow>
+    
+    <TableRow>
+
+        <Button
+            android:id="@+id/BtnHasil"
+            android:gravity="center"
+            android:padding="10dip"
+            android:layout_span="2"
+            android:text="Check" />
+        <Button
+            android:id="@+id/BtnReset"
+            android:gravity="center"
+            android:padding="10dip"
+            android:text="Reset" />
+
+    </TableRow>
+
+    <View
+        android:layout_height="3dip"
+        android:background="#FF909090" />
+    
+       <TableRow>    
+     <TextView
+     android:id="@+id/Judul"
+     android:layout_span="2"
+     android:gravity="center"
+     android:textSize="16dp"
+     android:textStyle="bold"
+     android:textColor="#880000"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content">
+      </TextView>  
+      <ImageView
+     android:id="@+id/gambar"
+     android:layout_width="135dip"
+     android:layout_height="95dip"
+     android:padding="5dp"/>  
+     </TableRow>
+     
+     <ScrollView
+     android:id="@+id/scrollView1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content">
+      
+      <TableLayout
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:stretchColumns="1">
+         
+     <TableRow>    
+     <TextView
+     android:id="@+id/Hasil"
+     android:gravity="left"
+     android:textStyle="bold"
+     android:textColor="#880000"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"/>
+
+     </TableRow> 
+     </TableLayout>
+     
+ </ScrollView>
+</TableLayout>
